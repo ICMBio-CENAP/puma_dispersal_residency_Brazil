@@ -16,15 +16,15 @@ Below we desribe the content of the repository.
 The folder **code/** presents the R scripts used to organize the data and perform the analyses presented in the paper.
 
 0. [Organize raw GPS data](code/00_organize_raw_data.R) 
-1. [Load and prepare GPS data](code/01_dispersal_load_data.md)
-2. [Create R package to store the GPS data](code/02_create_data_package.md)
-3. [Explore GPS data and make some basic plots](code/03_plot_explore.md)
-4. [Finding dispersal timing: example for one individual](code/04_arima_fit_1ind.md)
-5. [Finding dispersal timing: all pumas](code/05_arima_fit_multiple_animals_pkg.md)
-6. [Understanding dispersal patterns](code/06_arima_understand_dispersal.md)
-7. [Understanding movement patterns](code/07_understand_movement.md)
-8. [Understanding residency patterns](code/08_understand_residency.md)
-9. [Comparison with literature data](code/09_compare_literature.md)
+1. [Load and prepare GPS data](code/01_dispersal_load_data.R)
+2. [Create R package to store the GPS data](code/02_create_data_package.R)
+3. [Explore GPS data and make some basic plots](code/03_plot_explore.R)
+4. [Finding dispersal timing: example for one individual](code/04_arima_fit_1ind.R)
+5. [Finding dispersal timing: all pumas](code/05_arima_fit_multiple_animals_pkg.R)
+6. [Understanding dispersal patterns](code/06_arima_understand_dispersal.R)
+7. [Understanding movement patterns](code/07_understand_movement.R)
+8. [Understanding residency patterns](code/08_understand_residency.R)
+9. [Comparison with literature data](code/09_compare_literature.R)
 
 ## data
 
