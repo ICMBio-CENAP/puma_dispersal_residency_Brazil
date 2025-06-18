@@ -23,7 +23,7 @@ The folder **code/** presents the R scripts used to organize the data and perfor
 5. [Finding dispersal timing: all pumas](code/05_arima_fit_multiple_animals_pkg.R)
 6. [Understanding dispersal patterns](code/06_arima_understand_dispersal.R)
 7. [Understanding movement patterns](code/07_understand_movement.R)
-8. [Understanding residency patterns](code/08_understand_residency.R)
+8. [Understanding rnaging patterns](code/08_understand_ranging.R)
 9. [Comparison with literature data](code/09_compare_literature.R)
 
 ## data
