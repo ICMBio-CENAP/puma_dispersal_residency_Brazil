@@ -7,7 +7,7 @@ The code supplements the manuscript:
 Niebuhr, B. B.; Cavalcanti, S. M. C.; Vilalba, E. A.; Alberico, V. V.; Gebin, J. C. Z.; 
 Santos, D. C.; Barban, A. B.; de Oliveira, R.; Gurarie, E.; Morato, R. G. 2025. 
 **Land use effects on the space use and dispersal of an apex predator in an ecotone between tropical biodiversity hotspots.** 
-Diversity, 17.
+Diversity, 17(6), 435; https://doi.org/10.3390/d17060435. 
 
 Below we desribe the content of the repository.
 
