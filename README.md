@@ -1,5 +1,7 @@
 # Puma dispersal and ranging in Southeastern Brazil
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15690497.svg)](https://doi.org/10.5281/zenodo.15690497)
+
 This repository presents the code for the organization of data and the analyses 
 of space use, dispersal, and movement of pumas in southeastern Brazil.
 The code supplements the manuscript:
